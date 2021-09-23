@@ -15,7 +15,7 @@
 >> * 9V DC Motor<br/> 
 
 > ## Circuit Diagram:
->>![alt text](https://github.com/ndmparvez/BluetoothControlledSmartCar/blob/circuit.jpg?raw=true)
+>>![alt text](https://github.com/ndmparvez/BluetoothControlledSmartCar/circuit.jpg?raw=true)
 
 > ## Working
 >> * First connect the power and ground of the Arduino to the power and ground on the left side of your breadboard.<br/>
