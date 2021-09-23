@@ -15,7 +15,7 @@
 >> * 9V DC Motor<br/> 
 
 > ## Circuit Diagram:
->>
+>>![Circuit](https://user-images.githubusercontent.com/71454390/134482999-a730ddda-e527-4e44-a5b5-5a00c2c1c02b.jpg)
 
 > ## Working
 >> * First connect the power and ground of the Arduino to the power and ground on the left side of your breadboard.<br/>
