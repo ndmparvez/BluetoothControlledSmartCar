@@ -14,6 +14,9 @@
 >> * Servo Motor<br/>
 >> * 9V DC Motor<br/> 
 
+> ## Circuit Diagram:
+>>![alt text](https://github.com/ndmparvez/BluetoothControlledSmartCar/blob/circuit.jpg?raw=true)
+
 > ## Working
 >> * First connect the power and ground of the Arduino to the power and ground on the left side of your breadboard.<br/>
 >> * Next connect the first battery snaps power and ground to the right side of the breadboard. Connect the other Battery snaps power to the Vin pin on the Arduino, and the ground on the battery snap to ground on the Arduino.<br/>
